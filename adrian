@@ -1,0 +1,5 @@
+ Enter your proxies in config/proxies.txt
+ Create Discord Webhook and put link in config/config.json (optional)
+ Enter a custom avatar url and username for webhook (optional)
+ Select how many thread you want use in config/config.json (optional)
+ Run main.py and enjoy checking
